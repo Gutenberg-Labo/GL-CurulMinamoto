@@ -1,0 +1,21 @@
+This file provides detailed information on the GL-CurulMinamoto font Software.
+https://github.com/Gutenberg-Labo/GL-CurulMinamoto
+
+
+GL-Curul Font - Glyphs List
+
+* Punctuation
+ ゙ ゚ ゛゜・ゝゞーヽヾ
+
+* Hiragana
+あぁいぃうぅえぇおぉかゕがきぎくぐけげゖこごさざしじすずせぜそぞ
+ただちぢつっづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽま
+みむめもやゃゆゅよょらりるれろわゎゐゑをんゔゟ
+あ゙い゙え゙お゙か゚き゚く゚け゚こ゚ん゙
+
+* Katakana
+アァイィウゥエェオォカヵガキギクㇰグケヶゲコゴサザシㇱジスㇲズセ
+ゼソゾタダチヂツッヅテデトㇳドナニヌㇴネノハㇵバパヒㇶビピフㇷブ
+プヘㇸベペホㇹボポマミムㇺメモヤャユュヨョラㇻリㇼルㇽレㇾロㇿワ
+ヮヷヰヸヱヹヲヺンヴヿ
+ア゙イ゙エ゙オ゙カ゚キ゚ク゚ケ゚コ゚セ゚ツ゚ト゚ㇷ゚ン゙
