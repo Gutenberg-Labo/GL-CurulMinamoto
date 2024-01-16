@@ -5,7 +5,7 @@
 ## GL-CurulMinamoto / GL-くるる源
 
 Original designed Hiragana / Katakana font mixed with Source Han Serif.  
-Kana letters are designed with geometric lines, inspired by dialogue of a person who acts cutesy.  
+Kana letters are designed with geometric lines, inspired by dialogue of character who acts cutesy.  
 Licenced by **SIL Open Font License Version 1.1** .
 
 オリジナルデザインのひらがな・カタカナに源ノ明朝を混植した、ディスプレイ書体フォントです。  
